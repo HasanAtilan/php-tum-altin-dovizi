@@ -1,5 +1,5 @@
 <?php 
-//Coded By Hasan Atilan
+//APİ Coded By Hasan Atilan
  
 $kullanici = new SoapClient('http://data.altinkaynak.com/DataService.asmx?WSDL');  
  
